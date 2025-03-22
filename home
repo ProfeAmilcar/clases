@@ -67,4 +67,11 @@
         }
 
         .btn:hover {
+            background-color: #2980b9;
+        }
+
+        .dashboard {
+            display: none;
+            padding: 20px;
+        }
 </html>
